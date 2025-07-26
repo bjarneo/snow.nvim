@@ -26,7 +26,7 @@ Add the following to your `lazy.nvim` configuration:
   "bjarneo/snow.nvim",
   priority = 1000,
   config = function()
-    vim.cmd([[colorscheme ash]])
+    vim.cmd([[colorscheme snow]])
   end,
 }
 ```

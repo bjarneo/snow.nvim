@@ -1,4 +1,4 @@
--- Ash theme initialization module
+-- Snow theme initialization module
 local M = {}
 
 -- Default configuration

@@ -1,4 +1,4 @@
--- Ash theme configuration examples
+-- Snow theme configuration examples
 -- This file demonstrates how to customize the theme
 
 local snow = require("snow")
