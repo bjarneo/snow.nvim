@@ -25,11 +25,11 @@ vim.g.colors_name = "snow"
 local palette = {
 	bg = "#FFFFFF",
 	fg = "#1c1c1c",
-	gray1 = "#F5F5F5",
-	gray2 = "#EEEEEE",
-	gray3 = "#E0E0E0",
-	gray4 = "#BDBDBD",
-	gray5 = "#9E9E9E",
+	gray1 = "#E0E0E0",
+	gray2 = "#C0C0C0",
+	gray3 = "#A0A0A0",
+	gray4 = "#808080",
+	gray5 = "#606060",
 	fg_bright = "#000000",
 }
 
