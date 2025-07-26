@@ -1,4 +1,4 @@
--- Flash.nvim highlights for Ash theme
+-- Flash.nvim highlights for snow theme
 local M = {}
 
 -- Helper function to set highlights

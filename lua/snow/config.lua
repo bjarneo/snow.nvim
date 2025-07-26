@@ -125,7 +125,7 @@ require('snow').load()
 
 -- Option 3: With lazy.nvim
 {
-  'adibhanna/snow-theme-nvim',
+  'bjarneo/snow.nvim',
   lazy = false,
   priority = 1000,
   opts = {

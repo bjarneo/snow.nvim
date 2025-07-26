@@ -1,4 +1,4 @@
--- GitSigns highlights for Ash theme
+-- GitSigns highlights for snow theme
 local M = {}
 
 -- Helper function to set highlights
