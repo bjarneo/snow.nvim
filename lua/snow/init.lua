@@ -4,7 +4,7 @@ local M = {}
 -- Default configuration
 M.config = {
 	-- Theme variant (currently only 'dark' supported)
-	variant = "dark",
+	variant = "light",
 
 	-- Disable specific features
 	disable = {
@@ -43,7 +43,7 @@ end
 -- Load the colorscheme
 function M.load()
 	-- Set background
-	vim.o.background = "dark"
+	vim.o.background = "light"
 
 	-- Clear existing highlights
 	vim.cmd("hi clear")
