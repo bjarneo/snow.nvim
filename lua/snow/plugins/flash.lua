@@ -32,7 +32,7 @@ function M.apply(colors, config)
 	hl("HopUnmatched", { fg = colors.comment })
 
 	-- Flash lightspeed compatibility
-	hl("LightspeedGreyWsnow", { fg = colors.comment })
+	hl("LightspeedGreyWash", { fg = colors.comment })
 	hl("LightspeedLabel", { fg = colors.bg, bg = colors.func, bold = true })
 	hl("LightspeedLabelDistant", { fg = colors.bg, bg = colors.property, bold = true })
 	hl("LightspeedLabelDistantOverlapped", { fg = colors.bg, bg = colors.type, bold = true })
