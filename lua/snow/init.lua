@@ -3,7 +3,7 @@ local M = {}
 
 -- Default configuration
 M.config = {
-	-- Theme variant (currently only 'dark' supported)
+	-- Theme variant (currently only 'light' supported)
 	variant = "light",
 
 	-- Disable specific features
